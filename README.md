@@ -7,7 +7,8 @@
 > separation of concerns (SoC) in the architecture     
 > commenting throughout       
 > naming conventions for booleans (i.e. isPlaying)     
-> indexing to keep track in array looping       
+> indexing to keep track in array looping      
+> folder deploy via Netlify   
 
 &nbsp;
 &nbsp;
